@@ -38,4 +38,4 @@ To stop the server, simply key in `CTRL+C` (Windows) or `control (^) + C` (Mac).
 ## What to do next?
 This is a **complete** repository already. The application is fully functional and there's no need for you to code anymore.
 
-What you need to do is dig through the code and **compare** this with the mongodb example. There are inline comments in the files. To make things easier, there's a separate `GUIDE.md` to help you navigate through the process of converting to use mongoose.
+What you need to do is dig through the code and **compare** this with the mongodb example. There are inline comments in the files. To make things easier, there's a separate [`GUIDE.md`](GUIDE.md) to help you navigate through the process of converting to use mongoose.
