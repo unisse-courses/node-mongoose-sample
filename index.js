@@ -6,7 +6,7 @@ const handlebars = require('handlebars');
 const bodyParser = require('body-parser');
 
 // Importing the model
-const studentModel = require('./model/student');
+const studentModel = require('./models/student');
 
 // Creates the express application
 const app = express();
